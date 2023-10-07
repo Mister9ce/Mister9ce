@@ -5,14 +5,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, @Mister9ce</h1>
-<h3 align="center">A passionate UI/UX Designer & Frontend Developer</h3>
+<h3 align="center">A passionate UI/UX Designer & FullStack Developer</h3>
 <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mister9ce&label=Profile%20views&color=0e75b6&style=flat" alt="mister9ce" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mister9ce" alt="mister9ce" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
